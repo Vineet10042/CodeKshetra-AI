@@ -40,7 +40,7 @@ function Login() {
       <div className="absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-primary/20 blur-[120px] rounded-full pointer-events-none"></div>
       <div className="absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-secondary/20 blur-[120px] rounded-full pointer-events-none"></div>
 
-     
+      
 
       <div className="card w-full max-w-[420px] bg-base-100/60 backdrop-blur-xl shadow-2xl border border-base-200/50 animate-in fade-in slide-in-from-bottom-8 duration-700 ease-out z-10">
         <div className="card-body p-8 sm:p-10">
